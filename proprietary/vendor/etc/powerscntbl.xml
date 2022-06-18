@@ -25,6 +25,7 @@
         <data cmd="PERF_RES_POWERHAL_TOUCH_BOOST_EAS_BOOST" param1="50"></data>
         <data cmd="PERF_RES_CPUFREQ_CCI_FREQ" param1="1"></data>
         <data cmd="PERF_RES_FPS_FBT_BHR_OPP" param1="15"></data>
+        <data cmd="PERF_RES_POWERHAL_TOUCH_BOOST_NOTIFY_FBC" param1="1"></data>
     </scenario>
     <!-- #endif ODM_CM_EDIT -->
     <scenario powerhint="LAUNCH">
